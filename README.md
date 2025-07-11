@@ -30,3 +30,4 @@ Moksh Shah – Android & Game Developer
 MIT – Free to use and modify
 
 ## Demo
+https://github.com/shahmoksh22/galaxyapp/blob/main/record.mp4
